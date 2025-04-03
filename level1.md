@@ -92,5 +92,6 @@
 > 레몬: 용기를 내어 말하는 순간, 나는 이미 어제의 나보다 더 나아가고 있다.
 
 # 참고 자료
-[유연함의 힘](https://product.kyobobook.co.kr/detail/S000201934391)
+
+[유연함의 힘](https://product.kyobobook.co.kr/detail/S000201934391)  
 [유연함의 기술 적용 - javajigi](https://brunch.co.kr/@javajigi/45)
